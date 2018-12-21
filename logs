@@ -1,0 +1,635 @@
+[08:20:05] [main/INFO]: Loaded 0 recipes
+[08:20:05] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[08:20:05] [Server thread/INFO]: Loading properties
+[08:20:05] [Server thread/INFO]: Default game type: SURVIVAL
+[08:20:05] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-a1f2566-a4c555b (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
+[08:20:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[08:20:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:20:05] [Server thread/INFO]: Debug logging is disabled
+[08:20:05] [Server thread/INFO]: Generating keypair
+[08:20:05] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25568
+[08:20:05] [Server thread/INFO]: /tmp/libnetty_transport_native_epoll_x86_645983189401533171990.so exists but cannot be executed even when execute permissions set; check volume for "noexec" flag; use -Dio.netty.native.workdir=[path] to set native working directory separately.
+[08:20:05] [Server thread/INFO]: Using default channel type
+[08:20:07] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[08:20:08] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v4.3.17
+[08:20:08] [Server thread/INFO]: [WildStacker] Loading WildStacker v2.5.10
+[08:20:08] [Server thread/INFO]: [MultiWorld] Loading MultiWorld v5.2.8
+[08:20:08] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.0.0-beta-03;b192466
+[08:20:08] [Server thread/INFO]: [HelpBook] Loading HelpBook v1.1
+[08:20:08] [Server thread/INFO]: [Vault] Loading Vault v1.7.1-b91
+[08:20:08] [Server thread/INFO]: [Votifier] Loading Votifier v1.9
+[08:20:08] [Server thread/INFO]: [UltimateVotes] Loading UltimateVotes v1.8.3
+[08:20:08] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.0-beta01;01dfebe
+[08:20:08] [Server thread/INFO]: [Wild] Loading Wild v2.9
+[08:20:08] [Server thread/INFO]: [CT-Core] Loading CT-Core v3.1.1
+[08:20:08] [Server thread/INFO]: Version Support: v1_13_R2 Fork: SPIGOT
+[08:20:08] [Server thread/INFO]: [AreaShop] Loading AreaShop v2.5.0
+[08:20:08] [Server thread/INFO]: [Essentials] Loading Essentials v2.15.0.57
+[08:20:08] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.15.0.57
+[08:20:08] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.15.0.57
+[08:20:08] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.15.0.57
+[08:20:08] [Server thread/INFO]: [WarpSystem] Loading WarpSystem v3.1.6
+[08:20:08] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.15.0.57
+[08:20:08] [Server thread/INFO]: [ChatManager] Loading ChatManager v3.3.0
+[08:20:08] [Server thread/INFO]: [RegionGUI] Loading RegionGUI v3.1.6
+[08:20:08] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v4.3.17
+[08:20:08] [Server thread/INFO]:         __    
+[08:20:08] [Server thread/INFO]:   |    |__)   LuckPerms v4.3.17
+[08:20:08] [Server thread/INFO]:   |___ |      Running on Bukkit - CraftBukkit
+[08:20:08] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[08:20:08] [Server thread/INFO]: [LuckPerms] Loading storage provider... [YAML]
+[08:20:08] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[08:20:08] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[08:20:08] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 473ms)
+[08:20:08] [Server thread/INFO]: [Vault] Enabling Vault v1.7.1-b91
+[08:20:08] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[08:20:08] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[08:20:08] [Server thread/INFO]: [Vault] Enabled Version 1.7.1-b91
+[08:20:08] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[08:20:08] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[08:20:08] [Server thread/INFO]: Preparing level "world"
+[08:20:08] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[08:20:09] [Server thread/INFO]: Loaded 524 recipes
+[08:20:09] [Server thread/INFO]: -------- World Settings For [world] --------
+[08:20:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Vine Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[08:20:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08:20:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[08:20:09] [Server thread/INFO]: Mob Spawn Range: 6
+[08:20:09] [Server thread/INFO]: Random Lighting Updates: false
+[08:20:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[08:20:09] [Server thread/INFO]: Max TNT Explosions: 100
+[08:20:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08:20:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[08:20:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[08:20:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[08:20:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:20:09] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[08:20:09] [Server thread/INFO]: View Distance: 10
+[08:20:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:20:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:20:09] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[08:20:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Vine Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[08:20:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08:20:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[08:20:09] [Server thread/INFO]: Mob Spawn Range: 6
+[08:20:09] [Server thread/INFO]: Random Lighting Updates: false
+[08:20:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[08:20:09] [Server thread/INFO]: Max TNT Explosions: 100
+[08:20:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08:20:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[08:20:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[08:20:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[08:20:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:20:09] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[08:20:09] [Server thread/INFO]: View Distance: 10
+[08:20:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:20:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:20:09] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[08:20:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Vine Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[08:20:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[08:20:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08:20:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[08:20:09] [Server thread/INFO]: Mob Spawn Range: 6
+[08:20:09] [Server thread/INFO]: Random Lighting Updates: false
+[08:20:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[08:20:09] [Server thread/INFO]: Max TNT Explosions: 100
+[08:20:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08:20:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[08:20:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[08:20:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[08:20:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:20:09] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[08:20:09] [Server thread/INFO]: View Distance: 10
+[08:20:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:20:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:20:09] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: -1632097052275428690)
+[08:20:09] [Server thread/INFO]: Preparing spawn area: 4%
+[08:20:09] [Server thread/INFO]: Preparing spawn area: 8%
+[08:20:09] [Server thread/INFO]: Preparing spawn area: 12%
+[08:20:09] [Server thread/INFO]: Preparing spawn area: 16%
+[08:20:10] [Server thread/INFO]: Preparing spawn area: 20%
+[08:20:10] [Server thread/INFO]: Preparing spawn area: 24%
+[08:20:10] [Server thread/INFO]: Preparing spawn area: 28%
+[08:20:10] [Server thread/INFO]: Preparing spawn area: 32%
+[08:20:10] [Server thread/INFO]: Preparing spawn area: 36%
+[08:20:10] [Server thread/INFO]: Preparing spawn area: 40%
+[08:20:10] [Server thread/INFO]: Preparing spawn area: 44%
+[08:20:10] [Server thread/INFO]: Preparing spawn area: 48%
+[08:20:10] [Server thread/INFO]: Preparing spawn area: 52%
+[08:20:10] [Server thread/INFO]: Preparing spawn area: 56%
+[08:20:10] [Server thread/INFO]: Preparing spawn area: 60%
+[08:20:10] [Server thread/INFO]: Preparing spawn area: 64%
+[08:20:10] [Server thread/INFO]: Preparing spawn area: 68%
+[08:20:10] [Server thread/INFO]: Preparing spawn area: 72%
+[08:20:10] [Server thread/INFO]: Preparing spawn area: 76%
+[08:20:10] [Server thread/INFO]: Preparing spawn area: 80%
+[08:20:10] [Server thread/INFO]: Preparing spawn area: 84%
+[08:20:10] [Server thread/INFO]: Preparing spawn area: 88%
+[08:20:10] [Server thread/INFO]: Preparing spawn area: 92%
+[08:20:10] [Server thread/INFO]: Preparing spawn area: 96%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 100%
+[08:20:11] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: 9064551405366387626)
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 4%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 8%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 12%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 16%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 20%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 24%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 28%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 32%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 36%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 40%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 44%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 48%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 52%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 56%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 60%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 64%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 68%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 72%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 76%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 80%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 84%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 88%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 92%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 96%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 100%
+[08:20:11] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: 9064551405366387626)
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 4%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 8%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 12%
+[08:20:11] [Server thread/INFO]: Preparing spawn area: 16%
+[08:20:12] [Server thread/INFO]: Preparing spawn area: 20%
+[08:20:12] [Server thread/INFO]: Preparing spawn area: 24%
+[08:20:12] [Server thread/INFO]: Preparing spawn area: 28%
+[08:20:12] [Server thread/INFO]: Preparing spawn area: 32%
+[08:20:12] [Server thread/INFO]: Preparing spawn area: 36%
+[08:20:12] [Server thread/INFO]: Preparing spawn area: 40%
+[08:20:12] [Server thread/INFO]: Preparing spawn area: 44%
+[08:20:12] [Server thread/INFO]: Preparing spawn area: 48%
+[08:20:12] [Server thread/INFO]: Preparing spawn area: 52%
+[08:20:12] [Server thread/INFO]: Preparing spawn area: 56%
+[08:20:12] [Server thread/INFO]: Preparing spawn area: 60%
+[08:20:12] [Server thread/INFO]: Preparing spawn area: 64%
+[08:20:12] [Server thread/INFO]: Preparing spawn area: 68%
+[08:20:12] [Server thread/INFO]: Preparing spawn area: 72%
+[08:20:12] [Server thread/INFO]: Preparing spawn area: 76%
+[08:20:12] [Server thread/INFO]: Preparing spawn area: 80%
+[08:20:12] [Server thread/INFO]: Preparing spawn area: 84%
+[08:20:12] [Server thread/INFO]: Preparing spawn area: 88%
+[08:20:12] [Server thread/INFO]: Preparing spawn area: 92%
+[08:20:12] [Server thread/INFO]: Preparing spawn area: 96%
+[08:20:12] [Server thread/INFO]: Preparing spawn area: 100%
+[08:20:12] [Server thread/INFO]: Time elapsed: 2813 ms
+[08:20:12] [Server thread/INFO]: [WildStacker] Enabling WildStacker v2.5.10
+[08:20:12] [Server thread/INFO]: [WildStacker] ******** ENABLE START ********
+[08:20:12] [Server thread/INFO]: [WildStacker] Loading configuration started...
+[08:20:12] [Server thread/INFO]: [WildStacker] Couldn't find a valid type for fill item 1 - skipping...
+[08:20:12] [Server thread/INFO]: [WildStacker] Couldn't find a valid type for fill item 2 - skipping...
+[08:20:12] [Server thread/INFO]: [WildStacker] Couldn't find a valid type for fill item 11 - skipping...
+[08:20:12] [Server thread/INFO]: [WildStacker] Couldn't find a valid type for fill item 13 - skipping...
+[08:20:12] [Server thread/INFO]: [WildStacker] Couldn't find a valid type for fill item 15 - skipping...
+[08:20:12] [Server thread/INFO]: [WildStacker]  - Stacking drops is enabled
+[08:20:12] [Server thread/INFO]: [WildStacker]  - Stacking entities is enabled
+[08:20:12] [Server thread/INFO]: [WildStacker]  - Stacking spawners is enabled
+[08:20:12] [Server thread/INFO]: [WildStacker]  - Stacking barrels is enabled
+[08:20:12] [Server thread/INFO]: [WildStacker] Loading configuration done (Took 204ms)
+[08:20:13] [Server thread/INFO]: [WildStacker] Loading messages started...
+[08:20:13] [Server thread/INFO]: [WildStacker]  - Found 34 messages in lang.yml.
+[08:20:13] [Server thread/INFO]: [WildStacker] Loading messages done (Took 2ms)
+[08:20:13] [Server thread/INFO]: [WildStacker] ******** ENABLE DONE ********
+[08:20:13] [Server thread/INFO]: [MultiWorld] Enabling MultiWorld v5.2.8
+[08:20:13] [Server thread/INFO]: -------- World Settings For [coreworld] --------
+[08:20:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:20:13] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:20:13] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:20:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:20:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:20:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:20:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:20:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:20:13] [Server thread/INFO]: Vine Growth Modifier: 100%
+[08:20:13] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[08:20:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[08:20:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08:20:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[08:20:13] [Server thread/INFO]: Mob Spawn Range: 6
+[08:20:13] [Server thread/INFO]: Random Lighting Updates: false
+[08:20:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[08:20:13] [Server thread/INFO]: Max TNT Explosions: 100
+[08:20:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08:20:13] [Server thread/INFO]: Experience Merge Radius: 3.0
+[08:20:13] [Server thread/INFO]: Item Despawn Rate: 6000
+[08:20:13] [Server thread/INFO]: Item Merge Radius: 2.5
+[08:20:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:20:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[08:20:13] [Server thread/INFO]: View Distance: 10
+[08:20:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:20:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:20:13] [Server thread/INFO]: Preparing start region for level 3 (Seed: 1448656372051929036)
+[08:20:13] [Server thread/INFO]: -------- World Settings For [coreworld_Nether] --------
+[08:20:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:20:13] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:20:13] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:20:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:20:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:20:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:20:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:20:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:20:13] [Server thread/INFO]: Vine Growth Modifier: 100%
+[08:20:13] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[08:20:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[08:20:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08:20:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[08:20:13] [Server thread/INFO]: Mob Spawn Range: 6
+[08:20:13] [Server thread/INFO]: Random Lighting Updates: false
+[08:20:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[08:20:13] [Server thread/INFO]: Max TNT Explosions: 100
+[08:20:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08:20:13] [Server thread/INFO]: Experience Merge Radius: 3.0
+[08:20:13] [Server thread/INFO]: Item Despawn Rate: 6000
+[08:20:13] [Server thread/INFO]: Item Merge Radius: 2.5
+[08:20:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:20:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[08:20:13] [Server thread/INFO]: View Distance: 10
+[08:20:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:20:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:20:13] [Server thread/INFO]: Preparing start region for level 4 (Seed: -5925576117317483183)
+[08:20:14] [Server thread/INFO]: -------- World Settings For [resource] --------
+[08:20:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[08:20:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[08:20:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[08:20:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[08:20:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[08:20:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[08:20:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[08:20:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[08:20:14] [Server thread/INFO]: Vine Growth Modifier: 100%
+[08:20:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[08:20:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[08:20:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[08:20:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[08:20:14] [Server thread/INFO]: Mob Spawn Range: 6
+[08:20:14] [Server thread/INFO]: Random Lighting Updates: false
+[08:20:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[08:20:14] [Server thread/INFO]: Max TNT Explosions: 100
+[08:20:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[08:20:14] [Server thread/INFO]: Experience Merge Radius: 3.0
+[08:20:14] [Server thread/INFO]: Item Despawn Rate: 6000
+[08:20:14] [Server thread/INFO]: Item Merge Radius: 2.5
+[08:20:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[08:20:14] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[08:20:14] [Server thread/INFO]: View Distance: 10
+[08:20:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:20:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:20:14] [Server thread/INFO]: Preparing start region for level 5 (Seed: 9133542804587082424)
+[08:20:14] [Server thread/INFO]: [MultiWorld] v5.2.8 enabled.
+[08:20:14] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.0.0-beta-03;b192466
+[08:20:15] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_13_R2 as the Bukkit adapter
+[08:20:15] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[08:20:15] [Server thread/INFO]: [HelpBook] Enabling HelpBook v1.1
+[08:20:15] [Server thread/INFO]: [HelpBook] Enabling the plugin - v1.1
+[08:20:15] [Server thread/INFO]: [HelpBook] Your server is running version v1_13_R2
+[08:20:15] [Server thread/INFO]: [HelpBook] HelpBook setup was successful!
+[08:20:15] [Server thread/INFO]: [HelpBook] The plugin setup process is complete!
+[08:20:15] [Server thread/INFO]: [Votifier] Enabling Votifier v1.9
+[08:20:15] [Server thread/ERROR]: [Votifier] Error initializing vote receiver. Please verify that the configured
+[08:20:15] [Server thread/ERROR]: [Votifier] IP address and port are not already in use. This is a common problem
+[08:20:15] [Server thread/ERROR]: [Votifier] with hosting services and, if so, you should check with your hosting provider.
+java.net.BindException: Cannot assign requested address (Bind failed)
+	at java.net.PlainSocketImpl.socketBind(Native Method) ~[?:1.8.0_111]
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387) ~[?:1.8.0_111]
+	at java.net.ServerSocket.bind(ServerSocket.java:375) ~[?:1.8.0_111]
+	at java.net.ServerSocket.bind(ServerSocket.java:329) ~[?:1.8.0_111]
+	at com.vexsoftware.votifier.net.VoteReceiver.initialize(VoteReceiver.java:81) [votifier-1.9.jar:?]
+	at com.vexsoftware.votifier.net.VoteReceiver.<init>(VoteReceiver.java:75) [votifier-1.9.jar:?]
+	at com.vexsoftware.votifier.Votifier.onEnable(Votifier.java:172) [votifier-1.9.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:254) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:339) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:403) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.enablePlugin(CraftServer.java:434) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.enablePlugins(CraftServer.java:348) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.l(MinecraftServer.java:584) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:546) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:424) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at net.minecraft.server.v1_13_R2.DedicatedServer.init(DedicatedServer.java:294) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:702) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
+[08:20:15] [Server thread/ERROR]: [Votifier] Votifier did not initialize properly!
+[08:20:15] [Server thread/INFO]: [UltimateVotes] Enabling UltimateVotes v1.8.3
+[08:20:15] [Server thread/INFO]: [UltimateVotes] [Info] Votifier found!, listening for votes!
+[08:20:15] [Server thread/INFO]: [UltimateVotes] [Info] DatabaseManager is DISABLED Please enable once you have setup the database details.
+[08:20:15] [Server thread/INFO]: [UltimateVotes] [Info] Vote reminders ENABLED.
+[08:20:15] [Server thread/INFO]: [UltimateVotes] [Info] WorldEdit found! hooking into plugin!
+[08:20:15] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.0-beta01;01dfebe
+[08:20:15] [Server thread/WARN]: Failed to load native library:sqlite-3.25.2-d3d99267-33aa-4904-bd88-a2efcf0ebb22-libsqlitejdbc.so. osinfo: Linux/x86_64
+[08:20:15] [Server thread/WARN]: java.lang.UnsatisfiedLinkError: /tmp/sqlite-3.25.2-d3d99267-33aa-4904-bd88-a2efcf0ebb22-libsqlitejdbc.so: /tmp/sqlite-3.25.2-d3d99267-33aa-4904-bd88-a2efcf0ebb22-libsqlitejdbc.so: failed to map segment from shared object: Operation not permitted
+[08:20:15] [Server thread/ERROR]: Error occurred while enabling WorldGuard v7.0.0-beta01;01dfebe (Is it up to date?)
+java.lang.UnsatisfiedLinkError: org.sqlite.core.NativeDB._open_utf8([BI)V
+	at org.sqlite.core.NativeDB._open_utf8(Native Method) ~[spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.sqlite.core.NativeDB._open(NativeDB.java:78) ~[spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.sqlite.core.DB.open(DB.java:195) ~[spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.sqlite.SQLiteConnection.open(SQLiteConnection.java:243) ~[spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.sqlite.SQLiteConnection.<init>(SQLiteConnection.java:61) ~[spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.sqlite.jdbc3.JDBC3Connection.<init>(JDBC3Connection.java:28) ~[spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.sqlite.jdbc4.JDBC4Connection.<init>(JDBC4Connection.java:21) ~[spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.sqlite.JDBC.createConnection(JDBC.java:116) ~[spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.sqlite.JDBC.connect(JDBC.java:90) ~[spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at java.sql.DriverManager.getConnection(DriverManager.java:664) ~[?:1.8.0_111]
+	at java.sql.DriverManager.getConnection(DriverManager.java:270) ~[?:1.8.0_111]
+	at com.sk89q.worldguard.util.profile.cache.SQLiteCache.<init>(SQLiteCache.java:63) ~[?:?]
+	at com.sk89q.worldguard.WorldGuard.setup(WorldGuard.java:78) ~[?:?]
+	at com.sk89q.worldguard.bukkit.WorldGuardPlugin.onEnable(WorldGuardPlugin.java:151) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:254) ~[spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:339) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:403) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.enablePlugin(CraftServer.java:434) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.enablePlugins(CraftServer.java:348) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.l(MinecraftServer.java:584) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:546) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:424) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at net.minecraft.server.v1_13_R2.DedicatedServer.init(DedicatedServer.java:294) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:702) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
+[08:20:15] [Server thread/INFO]: [Wild] Enabling Wild v2.9
+[08:20:15] [Server thread/INFO]: [Wild]  = = = = = = = = = = = = = = = = = = = =
+[08:20:15] [Server thread/INFO]: [Wild]  
+[08:20:15] [Server thread/WARN]: [Wild] Btw, dis wild plugin (and server) would be a bazillion times
+[08:20:15] [Server thread/WARN]: [Wild] faster and wilder if u switch 2 Paper.
+[08:20:15] [Server thread/WARN]: [Wild] Until then, we'll just go wild at ur serburs slower/laggier pace.
+[08:20:15] [Server thread/WARN]: [Wild]  
+[08:20:15] [Server thread/WARN]: [Wild] Learn and get Paper (it's ez) at https://papermc.io
+[08:20:15] [Server thread/INFO]: [Wild]  
+[08:20:15] [Server thread/INFO]: [Wild]  = = = = = = = = = = = = = = = = = = = =
+[08:20:15] [Server thread/INFO]: [CT-Core] Enabling CT-Core v3.1.1
+[08:20:15] [Server thread/INFO]: [CT-Core] > Starting API
+[08:20:15] [Server thread/INFO]: [CT-Core] ?aLanguageAPI - Language loaded:  en_us
+[08:20:15] [Server thread/INFO]: [CT-Core] NMS support 'MC1_13_R2' loaded!
+[08:20:15] [Server thread/INFO]: [CT-Core] Redis: Not found.
+[08:20:15] [Server thread/INFO]: [CT-Core] Worldguard: Compatible
+[08:20:15] [Server thread/INFO]: [CT-Core] Nbt: Compatible
+[08:20:15] [Server thread/INFO]: [CT-Core] API loaded sucessfully for version: v1_13_R2[SPIGOT]
+[08:20:15] [Server thread/ERROR]: =================
+[08:20:15] [Server thread/ERROR]: You are not running PaperMC, please consider to switch to PaperMC to enable more features.
+[08:20:15] [Server thread/ERROR]: =================
+[08:20:15] [Server thread/INFO]: [AreaShop] Enabling AreaShop v2.5.0
+[08:20:15] [Server thread/ERROR]: Error occurred while enabling AreaShop v2.5.0 (Is it up to date?)
+java.lang.NoClassDefFoundError: com/sk89q/worldedit/Vector
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_111]
+	at java.lang.Class.forName(Class.java:264) ~[?:1.8.0_111]
+	at me.wiefferink.areashop.AreaShop.onEnable(AreaShop.java:251) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:254) ~[spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:339) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:403) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.enablePlugin(CraftServer.java:434) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.enablePlugins(CraftServer.java:348) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.l(MinecraftServer.java:584) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:546) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:424) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at net.minecraft.server.v1_13_R2.DedicatedServer.init(DedicatedServer.java:294) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:702) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
+Caused by: java.lang.ClassNotFoundException: com.sk89q.worldedit.Vector
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381) ~[?:1.8.0_111]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:154) ~[spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:100) ~[spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_111]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_111]
+	... 14 more
+[08:20:15] [Server thread/INFO]: [Essentials] Enabling Essentials v2.15.0.57
+[08:20:15] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[08:20:15] [Server thread/INFO]: No kits found to migrate.
+[08:20:15] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[08:20:15] [Server thread/INFO]: [Essentials] Using legacy item data provider as spawn egg provider.
+[08:20:15] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[08:20:15] [Server thread/INFO]: Using locale en_US
+[08:20:15] [Server thread/INFO]: [Essentials] Using Spigot 1.7.10+ ServerListPingEvent iterator
+[08:20:15] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[08:20:15] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[08:20:15] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[08:20:15] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.15.0.57
+[08:20:15] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.15.0.57
+[08:20:16] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[08:20:16] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.15.0.57
+[08:20:16] [Server thread/INFO]: [WarpSystem] Enabling WarpSystem v3.1.6
+[08:20:16] [Server thread/INFO]:  
+[08:20:16] [Server thread/INFO]: __________________________________________________________
+[08:20:16] [Server thread/INFO]:  
+[08:20:16] [Server thread/INFO]:                        WarpSystem [3.1.6]
+[08:20:16] [Server thread/INFO]:  
+[08:20:16] [Server thread/INFO]: Status:
+[08:20:16] [Server thread/INFO]:  
+[08:20:16] [Server thread/INFO]: MC-Version: v1_13
+[08:20:16] [Server thread/INFO]:  
+[08:20:16] [Server thread/INFO]: Loading features
+[08:20:16] [Server thread/INFO]:   > Loading Icons
+[08:20:16] [Server thread/INFO]:     > Loading background
+[08:20:16] [Server thread/INFO]:       ...got 1 background
+[08:20:16] [Server thread/INFO]:     > Loading Categories
+[08:20:16] [Server thread/INFO]:       ...got 0 Categories
+[08:20:16] [Server thread/INFO]:     > Loading Warps
+[08:20:16] [Server thread/INFO]:       ...got 3 Warp(s)
+[08:20:16] [Server thread/INFO]:       > Check each Category of all Warps
+[08:20:16] [Server thread/INFO]:     > Loading GlobalWarps
+[08:20:16] [Server thread/INFO]:       ...got 0 GlobalWarp(s)
+[08:20:16] [Server thread/INFO]:     > Loading Deco
+[08:20:16] [Server thread/INFO]:       ...got 0 DecoIcon(s)
+[08:20:16] [Server thread/INFO]:     > Replacing "_" to " " for 0 icons
+[08:20:16] [Server thread/INFO]:   > Loading Portals (from Portals)
+[08:20:16] [Server thread/INFO]:      ...got 0 Portal(s)
+[08:20:16] [Server thread/INFO]:     > Verify that worlds are available
+[08:20:16] [Server thread/INFO]:     > Verify that portals are enabled
+[08:20:16] [Server thread/INFO]:   > Loading NativePortals
+[08:20:16] [Server thread/INFO]:     ...got 2 NativePortal(s)
+[08:20:16] [Server thread/INFO]:   > Loading Shortcuts
+[08:20:16] [Server thread/INFO]:      ...got 0 Shortcut(s)
+[08:20:16] [Server thread/INFO]:   > Loading TempWarps
+[08:20:16] [Server thread/INFO]:     > Loading Warps
+[08:20:16] [Server thread/INFO]:       ...got 0 TempWarp(s)
+[08:20:16] [Server thread/INFO]:   > Loading WarpSigns
+[08:20:16] [Server thread/INFO]:     ...got 0 WarpSign(s)
+[08:20:16] [Server thread/INFO]:  
+[08:20:16] [Server thread/INFO]: Loading TeleportManager
+[08:20:16] [Server thread/INFO]: Starting AutoSaver
+[08:20:16] [Server thread/INFO]:  
+[08:20:16] [Server thread/INFO]: Done (0.887s)
+[08:20:16] [Server thread/INFO]:  
+[08:20:16] [Server thread/INFO]: __________________________________________________________
+[08:20:16] [Server thread/INFO]:  
+[08:20:16] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.15.0.57
+[08:20:16] [Server thread/INFO]: [ChatManager] Enabling ChatManager v3.3.0
+[08:20:16] [Server thread/INFO]: [ChatManager] Starting Metrics.
+[08:20:17] [Server thread/INFO]: [ChatManager] Hooked into: Essentials v2.15.0.57
+[08:20:17] [Server thread/INFO]: [ChatManager] Hooked into: Vault v1.7.1-b91
+[08:20:17] [Server thread/INFO]: [ChatManager] Plugin is up to date - v3.3.0
+[08:20:17] [Server thread/INFO]: =========================
+[08:20:17] [Server thread/INFO]: Chat Manager
+[08:20:17] [Server thread/INFO]: Version 3.3.0
+[08:20:17] [Server thread/INFO]: Author: H1DD3NxN1NJA
+[08:20:17] [Server thread/INFO]: =========================
+[08:20:17] [Server thread/INFO]: [RegionGUI] Enabling RegionGUI v3.1.6
+[08:20:17] [Server thread/ERROR]: Error occurred while enabling RegionGUI v3.1.6 (Is it up to date?)
+java.lang.NullPointerException: null
+	at net.crytec.RegionGUI.RegionGUI.onEnable(RegionGUI.java:123) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:254) ~[spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:339) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:403) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.enablePlugin(CraftServer.java:434) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.enablePlugins(CraftServer.java:348) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.l(MinecraftServer.java:584) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:546) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:424) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at net.minecraft.server.v1_13_R2.DedicatedServer.init(DedicatedServer.java:294) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:702) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
+[08:20:17] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:20:17] [Server thread/INFO]: Done (9.135s)! For help, type "help"
+[08:20:17] [Craft Scheduler Thread - 1/INFO]: [UltimateVotes] [Info] Loading Votes Disabled, Enable in config once thetables have been created in the database.
+[08:20:17] [Server thread/INFO]: [WildStacker] Loading database started...
+[08:20:17] [Server thread/INFO]: [WildStacker]  - Found 126 entities in files.
+[08:20:17] [Server thread/INFO]: [WildStacker]  - Found 0 items in files.
+[08:20:17] [Server thread/INFO]: [WildStacker]  - Found 0 spawners in files.
+[08:20:17] [Server thread/INFO]: [WildStacker]  - Found 0 barrels in files.
+[08:20:17] [Server thread/INFO]: [WildStacker] Loading database done (Took 4ms)
+[08:20:17] [Server thread/INFO]: [WildStacker] Loading providers started...
+[08:20:17] [Server thread/INFO]: [WildStacker]  - Couldn't find any drops providers, using default one.
+[08:20:17] [Server thread/INFO]: [WildStacker]  - Couldn't find any spawners providers, using default one.
+[08:20:17] [Server thread/INFO]: [WildStacker]  - Couldn't find any drops providers, disabling holograms...
+[08:20:17] [Server thread/INFO]: [WildStacker] Loading providers done (Took 2ms)
+[08:20:17] [Server thread/INFO]: [WarpSystem] Looking for a BungeeCord...
+[08:20:17] [Server thread/INFO]: [WarpSystem] Needs a player to search. Waiting...
+[08:20:17] [Craft Scheduler Thread - 5/INFO]: [Vault] Checking for Updates ... 
+[08:20:18] [Craft Scheduler Thread - 5/INFO]: [Vault] No new version available
+[08:20:47] [Server thread/INFO]: CONSOLE issued server command: /list 
+[08:20:47] [Server thread/INFO]: There are 0 out of maximum 50 players online.
+[08:20:47] [Server thread/INFO]: Saving the game (this may take a moment!)
+[08:20:48] [Server thread/INFO]: Saved the game
+[08:20:48] [Server thread/INFO]: Stopping the server
+[08:20:48] [Server thread/INFO]: Stopping server
+[08:20:48] [Server thread/INFO]: [RegionGUI] Disabling RegionGUI v3.1.6
+[08:20:48] [Server thread/INFO]: [ChatManager] Disabling ChatManager v3.3.0
+[08:20:48] [Server thread/INFO]: [ChatManager] Cancelling all tasks
+[08:20:48] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.15.0.57
+[08:20:48] [Server thread/INFO]: [WarpSystem] Disabling WarpSystem v3.1.6
+[08:20:48] [Server thread/INFO]:  
+[08:20:48] [Server thread/INFO]: __________________________________________________________
+[08:20:48] [Server thread/INFO]:  
+[08:20:48] [Server thread/INFO]:                        WarpSystem [3.1.6]
+[08:20:48] [Server thread/INFO]:  
+[08:20:48] [Server thread/INFO]: Status:
+[08:20:48] [Server thread/INFO]:  
+[08:20:48] [Server thread/INFO]: MC-Version: v1_13
+[08:20:48] [Server thread/INFO]:  
+[08:20:48] [Server thread/INFO]: Saving options
+[08:20:48] [Server thread/INFO]: Saving features
+[08:20:48] [Server thread/INFO]:   > Saving Icons
+[08:20:48] [Server thread/INFO]:     > Saving background
+[08:20:48] [Server thread/INFO]:       ...saved 1 background
+[08:20:48] [Server thread/INFO]:     > Saving Warps
+[08:20:48] [Server thread/INFO]:       ...saved 3 Warp(s)
+[08:20:48] [Server thread/INFO]:     > Saving Categories
+[08:20:48] [Server thread/INFO]:       ...saved 0 Categories
+[08:20:48] [Server thread/INFO]:     > Saving GlobalWarps
+[08:20:48] [Server thread/INFO]:       ...saved 0 GlobalWarp(s)
+[08:20:48] [Server thread/INFO]:     > Saving Deco
+[08:20:48] [Server thread/INFO]:       ...saved 0 DecoIcon(s)
+[08:20:48] [Server thread/INFO]:   > Saving Portals
+[08:20:48] [Server thread/INFO]:     ...saved 0 Portal(s)
+[08:20:48] [Server thread/INFO]:   > Saving NativePortals...
+[08:20:48] [Server thread/INFO]:     ...saved 2 NativePortal(s)
+[08:20:48] [Server thread/INFO]:   > Saving Shortcuts
+[08:20:48] [Server thread/INFO]:     ...saved 0 Shortcut(s)
+[08:20:48] [Server thread/INFO]:   > Saving TempWarps
+[08:20:48] [Server thread/INFO]:     > Saving Warps
+[08:20:48] [Server thread/INFO]:       ...saved 0 TempWarp(s)
+[08:20:48] [Server thread/INFO]:   > Saving WarpSigns
+[08:20:48] [Server thread/INFO]:     ...saved 0 WarpSign(s)
+[08:20:48] [Server thread/INFO]:  
+[08:20:48] [Server thread/INFO]: Done (0.017s)
+[08:20:48] [Server thread/INFO]:  
+[08:20:48] [Server thread/INFO]: __________________________________________________________
+[08:20:48] [Server thread/INFO]:  
+[08:20:48] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.15.0.57
+[08:20:48] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.15.0.57
+[08:20:48] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.15.0.57
+[08:20:48] [Server thread/INFO]: [Essentials] Disabling Essentials v2.15.0.57
+[08:20:48] [Server thread/INFO]: [Vault][Economy] Essentials Economy unhooked.
+[08:20:48] [Server thread/INFO]: [AreaShop] Disabling AreaShop v2.5.0
+[08:20:48] [Server thread/INFO]: [CT-Core] Disabling CT-Core v3.1.1
+[08:20:48] [Server thread/INFO]: [Wild] Disabling Wild v2.9
+[08:20:48] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.0-beta01;01dfebe
+[08:20:48] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[08:20:48] [Server thread/ERROR]: Error occurred while disabling WorldGuard v7.0.0-beta01;01dfebe (Is it up to date?)
+java.lang.NullPointerException: null
+	at com.sk89q.worldguard.bukkit.BukkitWorldGuardPlatform.unload(BukkitWorldGuardPlatform.java:119) ~[?:?]
+	at com.sk89q.worldguard.WorldGuard.disable(WorldGuard.java:182) ~[?:?]
+	at com.sk89q.worldguard.bukkit.WorldGuardPlugin.onDisable(WorldGuardPlugin.java:231) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:256) ~[spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:363) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:422) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:415) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.disablePlugins(CraftServer.java:368) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.stop(MinecraftServer.java:625) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:770) [spigot-1.13.2.jar:git-Spigot-a1f2566-a4c555b]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_111]
+[08:20:48] [Server thread/INFO]: [UltimateVotes] Disabling UltimateVotes v1.8.3
+[08:20:48] [Server thread/INFO]: [UltimateVotes] [Info] Stopping Tasks.
+[08:20:48] [Server thread/INFO]: [UltimateVotes] [Info] Complete!
+[08:20:48] [Server thread/INFO]: [UltimateVotes] [Info] Clearing sign wall.
+[08:20:48] [Server thread/INFO]: [UltimateVotes] [Info] Wall of signs not set, not clearing.
+[08:20:48] [Server thread/INFO]: [UltimateVotes] [Info] Closing SQL connection.
+[08:20:48] [Server thread/INFO]: [UltimateVotes] [Info] Attempting to connect to MySQL database.
+[08:20:52] [Server thread/INFO]: [UltimateVotes] [Warning] DatabaseManager could not establish a connection when trying to setup the connection!com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+[08:20:52] [Server thread/INFO]: [UltimateVotes] [Info] Unregistering vote event.
+[08:20:52] [Server thread/INFO]: [Votifier] Disabling Votifier v1.9
+[08:20:52] [Server thread/INFO]: [Votifier] Votifier disabled.
+[08:20:52] [Server thread/INFO]: [Vault] Disabling Vault v1.7.1-b91
+[08:20:52] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[08:20:52] [Server thread/INFO]: [HelpBook] Disabling HelpBook v1.1
+[08:20:52] [Server thread/INFO]: [HelpBook] Disabling this plugin - v1.1
+[08:20:52] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.0.0-beta-03;b192466
+[08:20:52] [Server thread/INFO]: [MultiWorld] Disabling MultiWorld v5.2.8
+[08:20:52] [Server thread/INFO]: [MultiWorld] Disabled.
+[08:20:52] [Server thread/INFO]: [WildStacker] Disabling WildStacker v2.5.10
+[08:20:52] [Server thread/INFO]: [WildStacker] Successfully saved database (12ms)
+[08:20:52] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v4.3.17
+[08:20:52] [Server thread/INFO]: [LuckPerms] Closing storage...
+[08:20:52] [Server thread/INFO]: [LuckPerms] Shutting down internal scheduler...
+[08:20:52] [Server thread/INFO]: [LuckPerms] Goodbye!
+[08:20:52] [Server thread/INFO]: Saving players
+[08:20:52] [Server thread/INFO]: Saving worlds
+[08:20:52] [Server thread/INFO]: Saving chunks for level 'coreworld'/minecraft:overworld
+[08:20:52] [Server thread/INFO]: Saving chunks for level 'resource'/minecraft:overworld
+[08:20:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[08:20:52] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[08:20:52] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[08:20:52] [Server thread/INFO]: Saving chunks for level 'coreworld_Nether'/minecraft:the_nether
